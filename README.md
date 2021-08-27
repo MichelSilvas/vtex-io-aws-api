@@ -1,1 +1,1 @@
-# vtex-io-aws-api
+# service-course-template
